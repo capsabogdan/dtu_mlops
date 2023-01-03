@@ -38,7 +38,7 @@ be seen as the response to the concept of technical dept, namely that we should 
 It is important to note that all the concepts and tools that have been developed for MLOps can absolutely be used
 together with more classical machine learning models (think K-nearest neighbor, Random forest etc.), however
 deep learning comes with its own set of problems which mostly have to do with the shear size of the data and models
-we are working with. For these reason, we are focusing on working with deep learning models in this course
+we are working with. For these reason, we are focusing on working with deep learning models in this course.
 
 ## Software landscape for Deep Learning
 
